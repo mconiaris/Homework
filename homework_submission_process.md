@@ -5,7 +5,7 @@
 ######Move to your local `WDI_DC_1` folder
 
 ```bash
-cd ~dev/wdi/WDI_DC_1
+cd ~dev/wdi/guildenstern
 ```
 
 ######Move to the folder for today and look at what is inside
@@ -17,17 +17,19 @@ ls
 ```
 ![image](./screenshots/todays_folder.png)
 
-######Move to your __OWN PERSONAL DIRECTORY__ and do the work
-- Do NOT edit any files that are not in your personal directory
-- You can find any assignments in your personal directory
-- Do the work!
-- Remember to save all your files
+######Move to your __OWN PERSONAL DIRECTORY__, do the work, and save. 
+###### NOTE: Do NOT edit any files that are not in your personal directory
 
+```bash
+cd INSTRUCTOR/ 
+touch example_file.rb
+```
 ![image](./screenshots/own_directory.png)
 ![image](./screenshots/do_work.png)
 
 
-######Check status and add files to the stage
+
+######Check status and add files to the staging area (meaning you're tracking changes to that)
 
 ```bash
 git status
