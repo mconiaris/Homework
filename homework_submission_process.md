@@ -25,6 +25,8 @@ cd INSTRUCTOR/
 touch example_file.rb
 ```
 ![image](./screenshots/own_directory.png)
+
+
 ![image](./screenshots/do_work.png)
 
 
