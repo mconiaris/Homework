@@ -30,7 +30,6 @@ touch example_file.rb
 ![image](./screenshots/do_work.png)
 
 
-
 ######Check status and add files to the staging area (meaning you're tracking changes to that)
 
 ```bash
