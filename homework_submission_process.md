@@ -5,7 +5,7 @@
 ######Move to your local `WDI_DC_1` folder
 
 ```bash
-cd ~dev/wdi/guildenstern
+cd ~/dev/wdi/guildenstern
 ```
 
 ######Move to the folder for today and look at what is inside
