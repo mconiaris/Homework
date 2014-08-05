@@ -42,5 +42,3 @@ Some background: when we set up your repos, we had you create what's called a Gi
 So the `submit_hw` command creates what's called a pull request. A __pull request__ asks another GitHub user to adopt or 'pull' the changes you've made to your forked repo into the original repo (in the class .
 
 In doing so, submit_hw formats your pull-request message into an easily digested data format called JSON, with fields for 'completeness' and 'comfortability'. This formatted data allows us to easily track your comfort and progress during the course, and target you for help if necessary.
-
-
