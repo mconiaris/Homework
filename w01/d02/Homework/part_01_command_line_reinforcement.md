@@ -11,7 +11,7 @@ We're going to be working with our computers almost non-stop for the next 12 wee
 
 #### Directions
 
-1. First and foremost, __don't use your mouse.__ If you feel like you need your mouse, Google whatever it is you're trying to accomplish and see if there is a keyboard shortcut for the task. 
+1. First and foremost, __don't use your mouse.__ If you feel like you need your mouse, Google whatever it is you're trying to accomplish and see if there is a keyboard shortcut for the task. There will be.
 1. Create a file, `w01_d02_code_snippets.md`, within your `~/Desktop/markdown_assignments` directory
 1. Open this file from the command line and break down 10 of the command lines commands you learned today, paying particular attention to those related to remote Git repositories.
 1. Include at least two images in your markdown file. These images should be screengrabs (which you can create via `command + shift + 4` and dragging your mouse over the target area) that display a piece of the terminal window containing a code snippet you've struggled with and the associated output.
