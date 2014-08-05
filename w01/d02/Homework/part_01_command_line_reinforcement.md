@@ -1,12 +1,12 @@
 ## Part 1: Command Line Reinforcement HW
 
-Professional developers use their consoles all day and rarely rely on their mice, therefore it's vital that you build upon your understanding of the command line and using keyboard shortcuts. 
+We're going to be working with our computers almost non-stop for the next 12 weeks, therefore it's vital that you continue to advance your understanding of your operating system, paying special attention to the command line and common keyboard shortcuts. 
 
 #### Learning Objectives
 
 * discover keyboard shortcuts that will speed your in-class workflow
-* build upon your understanding of Git remotes
 * reinforce your understanding of the command line
+* build upon your understanding of Git remotes
 * expand your understanding of Markdown
 
 #### Directions
