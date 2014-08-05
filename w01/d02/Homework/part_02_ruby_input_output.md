@@ -10,7 +10,8 @@ Today we began our exploration of the Ruby programming language. The assignments
 * use Ruby I/O methods to attain input from the user
 * design a program from the ground up with little direction
 
-__
+___
+
 
 ### The Search for Obi-Wan
 
