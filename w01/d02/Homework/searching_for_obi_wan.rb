@@ -10,11 +10,12 @@ if kenobi_check.downcase == "i do"
   puts "Oh, marvelous! Simply marvelous! Say hello to RD-D2; he's been looking all over for you."
 elsif kenobi_check.downcase == "i don't"
   puts "I've really enjoyed speaking with you, #{name}, but if you'll please excuse me, I have to help my friend find someone named Obi-Wan Kenobi."
+  puts "What is your favorite farewell?"
+  farewell = gets.chomp
+  puts "#{farewell} to you too."
+  puts "Well R2, I suppose we'll just have to keep looking."
+  puts "RD-D2: (Agreeable droid noices)"
 else
   puts "I'm sorry, I do not understand your answer. I think that I will leave you alone now."
     end
-    puts "What is your favorite farewell?"
-    farewell = gets.chomp
-    puts "#{farewell} to you too."
-    puts "Well R2, I suppose we'll just have to keep looking."
-    puts "RD-D2: (Agreeable droid noices)"
+
