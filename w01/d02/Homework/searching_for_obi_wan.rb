@@ -3,7 +3,7 @@ puts "What is your name?"
 name = gets.chomp
 puts "It is a pleasure to meet you #{name}. Have you ever met a protocol droid before?"
 user_answer = gets.chomp
-puts "#{user_answer.downcase}? How interesting, for someone from around these parts."
+puts "#{user_answer.upcase}? How interesting, for someone from around these parts."
 puts "I'm terribly sorry for prying, but you don't by any chance go by the alias of Obi-Wan Kenobi, do you? (Answer \"I do\" or \"I don't\")"
 kenobi_check = gets.chomp
 if kenobi_check.downcase == "i do"
@@ -17,5 +17,5 @@ elsif kenobi_check.downcase == "i don't"
   puts "RD-D2: (Agreeable droid noices)"
 else
   puts "I'm sorry, I do not understand your answer. I think that I will leave you alone now."
-    end
+end
 
