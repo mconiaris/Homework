@@ -7,16 +7,16 @@ print "Please select + (to add), - (to subtract), * to multiply or / (to divide)
 op = gets.chomp
 case op
   when "+"
-    c = a.to_i + b.to_i
+    c = a.to_f + b.to_f
     puts "#{a} + #{b} = #{c}"
   when "-"
-    c = a.to_i - b.to_i
+    c = a.to_f - b.to_f
     puts "#{a} + #{b} = #{c}"
   when "*"
-    c = a.to_i * b.to_i
+    c = a.to_f * b.to_f
     puts "#{a} + #{b} = #{c}"
   when "/"
-    c = a.to_i / b.to_i
+    c = a.to_f / b.to_f
     puts "#{a} + #{b} = #{c}"
   else
     puts "I did not understand which operation you would like to execute."
